@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_orders"
+            android:icon="@drawable/baseline_travel_explore_24"
+            android:title="Rides"/>
+
+        <item android:id="@+id/nav_history"
+            android:icon="@drawable/baseline_history_24"
+            android:title="Rides history"/>
+    </group>
+</menu>
